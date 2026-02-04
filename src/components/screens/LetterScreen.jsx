@@ -19,9 +19,9 @@ You know one thing I really wish I did before we started dating, I wish I flirte
 
 The way you hold my hand when its cold is so soothing, small things like this mean a lot to me. Also that time when you slept on my shoulder in the auditorium and then you wrapped your arm around my arm and just fell asleep like a cute baby, omg I did not want to move because what if I disturbed my cute baby’s sleep. It was a really cute moment. Another time was when I slept on your shoulder in Zarifi's room, and when it was time to wake me up and go to class, u ran ur fingers in my hair and woke me up in a very cute wayy, omgg that all meant a lot to meee
 
-Okayy this is it for my yap session
+Okayy this is it for my yap session, :
 
-Love Neell  ❤️❤️❤️
+Love - Neel  ❤️❤️❤️
       </p>
 
       <Button onClick={onNext}>Continue 💗</Button>
