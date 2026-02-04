@@ -37,7 +37,7 @@ export default function OutroScreen() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        You are the best 💕
+        OMG YAYAYAYAY I LOVEE YOU BABBYYYY 💕
       </motion.h1>
 
       <motion.div
@@ -60,7 +60,7 @@ export default function OutroScreen() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1 }}
       >
-        my favorite picture of us
+        my favorite picture of us!
       </motion.p>
 
       <motion.p
@@ -70,7 +70,7 @@ export default function OutroScreen() {
         transition={{ delay: 1.2 }}
       >
         Every moment with you means more than I can put into words.
-        I’m so grateful for us 🤍
+        I’m so grateful for us , I LOVE MY CUTE ANGRY BIRDDD🤍
       </motion.p>
     </div>
   );
